@@ -3,6 +3,9 @@
 # Projects
 
 ## Level 1
+
+📐 Area Calculator
+
 🥠 Fortune Cookie
 
 🎲 Dice Rolling Simulator
@@ -28,8 +31,6 @@
 ♣️ Blackjack
 
 📏 Metric Conversion Tool
-
-📐 Area Calculator
 
 🔢 Guess My Number
 
