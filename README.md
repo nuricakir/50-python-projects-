@@ -1,6 +1,7 @@
-# 50-python-projects-
+# 50 Python Project
 
-# 50 Project 
+# Projects
+
 ## Level 1
 🥠 Fortune Cookie
 
