@@ -1,6 +1,6 @@
-print("==================")
+print("========================")
 print("Dice Rolling Simulator")
-print("==================")
+print("========================")
 
 import random
 
